@@ -1,0 +1,17 @@
+{
+    "name": "mfpexample",
+    "description": "mfpexample",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "*",
+        "express-http-proxy": "*"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "repository": {}
+}
+
